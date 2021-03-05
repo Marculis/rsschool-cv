@@ -30,24 +30,4 @@ h3{
 p{
         background: white;
         }
-.logo{
-    margin-top: -80px;
-    margin-right: 10px;
-    margin-left: 50px;
-    width: 80px;
-    height: 40px;
-}        
-.git{
-    text-decoration: none;
-    font-size: 25px;
-    color: white;
-    margin-right:460px;
-     display: block;
-     margin-top: 15px;
-}
-span{
-    margin-top: -45px;
-    margin-left: 550px;
-    display: block;
-    font-size: 20px;
-   }
+
